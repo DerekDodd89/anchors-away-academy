@@ -1,0 +1,47 @@
+{
+  "id": "week-01-monday",
+  "subject": "Physical Education",
+  "course": "Family Physical Education",
+  "unit": "Movement & Fitness",
+  "lessonNumber": 1,
+  "schoolYear": "2026-2027",
+  "semester": 1,
+  "week": 1,
+  "day": "Monday",
+  "date": "August 17, 2026",
+  "title": "Move, Stretch & Play",
+  "subtitle": "Building healthy movement habits together",
+  "activity": "Family movement and fitness session",
+  "warmUp": "5 minutes of walking, arm circles, high knees, and gentle dynamic stretching.",
+  "skillFocus": "Body control, coordination, balance, and safe movement.",
+  "workout": "Complete a simple circuit of jumping jacks, bodyweight squats, walking or jogging, and balance exercises.",
+  "game": "Finish with a short family movement game or relay.",
+  "duration": "30–45 minutes",
+  "equipment": "Open space, comfortable shoes, water",
+  "fitnessFocus": "Cardiovascular endurance, coordination, mobility, and general fitness.",
+  "outdoorActivity": "Complete the walking or jogging portion outdoors when weather permits.",
+  "coolDown": "Walk slowly for several minutes, stretch the major muscle groups, and drink water.",
+  "studentModifications": [
+    {
+      "student": "Alice",
+      "modification": "Complete the full activity and focus on controlled form and consistent effort."
+    },
+    {
+      "student": "Benny",
+      "modification": "Complete the activity at a comfortable pace with emphasis on coordination and proper movement."
+    },
+    {
+      "student": "Chloe",
+      "modification": "Use shorter exercise intervals as needed and focus on learning each movement correctly."
+    }
+  ],
+  "theme": "Physical education develops healthy movement, strength, coordination, perseverance, and habits that support an active life.",
+  "resources": {
+    "student": [],
+    "activities": [],
+    "fitness": [],
+    "games": [],
+    "assessments": [],
+    "teacher": []
+  }
+}

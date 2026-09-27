@@ -1,0 +1,46 @@
+{
+  "id": "week-01-monday",
+  "subject": "Math",
+  "course": "Family Math",
+  "unit": "Semester 1",
+  "lessonNumber": 1,
+  "schoolYear": "2026-2027",
+  "semester": 1,
+  "week": 1,
+  "day": "Monday",
+  "date": "August 17, 2026",
+  "title": "Math Monday",
+  "subtitle": "Individual practice, review, and skill building",
+  "concept": "Build mathematical understanding through level-appropriate practice.",
+  "skill": "Complete assigned mathematics work with accuracy and careful reasoning.",
+  "review": "Review previously learned skills as needed before beginning new work.",
+  "practice": "Complete each student's assigned mathematics lesson and practice.",
+  "application": "Explain at least one problem aloud and describe how the answer was found.",
+  "challenge": "Check completed work for mistakes before considering the assignment finished.",
+  "studentAssignments": [
+    {
+      "student": "Alice",
+      "level": "8th Grade",
+      "assignment": "Complete today's assigned math lesson and practice problems."
+    },
+    {
+      "student": "Benny",
+      "level": "5th Grade",
+      "assignment": "Complete today's assigned math lesson and practice problems."
+    },
+    {
+      "student": "Chloe",
+      "level": "3rd Grade",
+      "assignment": "Complete today's assigned math lesson and practice problems."
+    }
+  ],
+  "theme": "Mathematics develops careful thinking, perseverance, accuracy, and problem-solving skills.",
+  "resources": {
+    "elementary": [],
+    "middleSchool": [],
+    "practice": [],
+    "activities": [],
+    "assessments": [],
+    "teacher": []
+  }
+}

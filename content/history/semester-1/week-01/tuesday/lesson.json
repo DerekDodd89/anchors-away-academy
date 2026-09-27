@@ -1,0 +1,31 @@
+{
+  "id": "week-01-tuesday",
+  "subject": "History",
+  "course": "American History",
+  "unit": "Unit 1",
+  "lessonNumber": 1,
+
+  "schoolYear": "2026-2027",
+  "semester": 1,
+  "week": 1,
+  "day": "Tuesday",
+  "date": "August 18, 2026",
+
+  "title": "History Lesson 1",
+  "subtitle": "Our First History Lesson",
+
+  "topic": "Introduction to American History",
+  "period": "Introduction",
+
+  "theme": "History helps us understand the people, places, events, and ideas that shaped the world in which we live.",
+
+  "resources": {
+    "elementary": [],
+    "middleSchool": [],
+    "teacher": [],
+    "maps": [],
+    "activities": []
+  }
+}
+
+  

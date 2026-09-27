@@ -1,0 +1,34 @@
+{
+  "id": "week-01-friday",
+  "subject": "Art",
+  "course": "Anchors Away Art",
+  "unit": "Unit 1 — Learning to See",
+  "lessonNumber": 1,
+  "schoolYear": "2026-2027",
+  "semester": 1,
+  "week": 1,
+  "day": "Friday",
+  "date": "August 21, 2026",
+  "title": "Learning to See Like an Artist",
+  "subtitle": "Lines, Shapes, and the Art of Observation",
+  "artist": "Introduction to Art",
+  "artForm": "Drawing",
+  "medium": "Pencil and Paper",
+  "technique": "Observation Drawing",
+  "project": "Create a detailed observational drawing of an everyday object.",
+  "materials": [
+    "Drawing paper",
+    "Pencil",
+    "Eraser",
+    "Everyday object to observe"
+  ],
+  "creativeFocus": "Slow down and notice the lines, shapes, proportions, and details that make an object unique.",
+  "theme": "Artists learn to see carefully before they create. Observation helps us notice details that we often overlook.",
+  "resources": {
+    "elementary": [],
+    "middleSchool": [],
+    "teacher": [],
+    "projects": [],
+    "artistStudy": []
+  }
+}

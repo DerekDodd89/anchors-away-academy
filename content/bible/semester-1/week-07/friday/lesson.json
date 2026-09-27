@@ -1,0 +1,123 @@
+{
+  "id": "hebrews-lesson-21",
+  "lessonNumber": 21,
+  "week": 7,
+  "day": "Friday",
+  "semester": 1,
+  "book": "Hebrews",
+  "chapter": 7,
+  "passage": "Hebrews 7:20-28",
+  "title": "Jesus, Our Perfect High Priest",
+  "subtitle": "He Lives Forever and Intercedes for Us",
+
+  "primaryText": {
+    "reference": "Hebrews 7:25",
+    "translation": "ESV",
+    "text": "Consequently, he is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them."
+  },
+
+  "bigIdea": "Jesus is our perfect High Priest. He lives forever, saves completely, and always intercedes for those who draw near to God through Him.",
+
+  "keyTruth": "Jesus is our perfect High Priest. He lives forever, saves completely, and always intercedes for those who draw near to God through Him.",
+
+  "greekWord": {
+    "greek": "σῴζειν",
+    "transliteration": "sōzein",
+    "root": "σῴζω",
+    "rootTransliteration": "sōzō",
+    "meaning": "to save",
+    "reference": "Hebrews 7:25"
+  },
+
+  "lessonFocus": [
+    "Jesus became High Priest with an oath.",
+    "Jesus is the guarantor of a better covenant.",
+    "Jesus holds His priesthood permanently because He lives forever.",
+    "Jesus is able to save completely those who draw near to God through Him.",
+    "Jesus always lives to intercede for His people.",
+    "Jesus offered Himself once for all."
+  ],
+
+  "scriptureTrail": [
+    "Hebrews 7:20",
+    "Hebrews 7:22",
+    "Hebrews 7:25",
+    "Hebrews 7:27"
+  ],
+
+  "contextCircle": {
+    "directContext": "Hebrews 7:20-28",
+    "remoteContext": [
+      "Psalm 110:4",
+      "Hebrews 5:5-6",
+      "Hebrews 9:11-12",
+      "Hebrews 6:19-20"
+    ],
+    "totalContext": "Jesus' eternal priesthood provides the better covenant, complete salvation, and continuing intercession through which God's people draw near to Him.",
+    "flow": "God confirms Jesus' priesthood with an oath -> Jesus holds His priesthood permanently -> Jesus saves completely and intercedes -> Jesus offers Himself once for all."
+  },
+
+  "bibleAuthority": {
+    "method": [
+      "Command",
+      "Example",
+      "Inference"
+    ],
+    "statements": [
+      "Jesus is the guarantor of a better covenant. (Hebrews 7:22)",
+      "Jesus always lives to intercede for us. (Hebrews 7:25)",
+      "Jesus offered Himself once for all. (Hebrews 7:27)"
+    ]
+  },
+
+  "levels": {
+    "elementary": {
+      "ages": "7-10",
+      "sections": [
+        "Listen & Fill In",
+        "Bible Verses I Heard",
+        "Think About It",
+        "Context Circle",
+        "Greek Word",
+        "Bible Authority",
+        "Bible Class Notes"
+      ],
+      "headerStyle": "Black-and-white coloring illustration"
+    },
+    "middleSchool": {
+      "ages": "11-13",
+      "sections": [
+        "Follow the Lesson",
+        "Scripture Trail",
+        "Observe & Apply",
+        "Context Circle",
+        "Greek Word Hunt",
+        "Bible Authority"
+      ]
+    }
+  },
+
+  "resources": {
+    "elementaryStudentWorksheet": true,
+    "elementaryTeacherAnswerKey": false,
+    "middleSchoolStudentWorksheet": true,
+    "middleSchoolTeacherAnswerKey": true
+  },
+
+  "series": {
+    "name": "Hebrews",
+    "semester": "Semester 1",
+    "previousLesson": {
+      "lessonNumber": 20,
+      "passage": "Hebrews 7:11-19",
+      "title": "A Better Hope"
+    },
+    "nextLesson": {
+      "lessonNumber": 22,
+      "passage": "Hebrews 8",
+      "title": null
+    }
+  },
+
+  "status": "approved"
+}

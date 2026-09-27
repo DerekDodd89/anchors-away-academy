@@ -1,0 +1,45 @@
+{
+  "id": "week-01-monday",
+  "subject": "Bible",
+  "course": "Hebrews",
+  "lessonNumber": 1,
+  "schoolYear": "2026-2027",
+  "semester": 1,
+  "week": 1,
+  "day": "Monday",
+  "date": "August 17, 2026",
+
+  "title": "God Has Spoken Through His Son",
+  "subtitle": "Hebrews 1:1–4",
+
+  "passage": "Hebrews 1:1–4",
+  "theme": "God has spoken in the past through the prophets, but now He has spoken to us fully through His Son, Jesus.",
+  "memoryVerse": "Hebrews 1:2",
+
+  "resources": {
+    "elementary": [
+      {
+        "title": "Elementary Student Worksheet",
+        "file": "Anchors_Away_Hebrews_Lesson_01_Elementary_Student_Worksheet.pdf"
+      }
+    ],
+
+    "middleSchool": [
+      {
+        "title": "Middle School Student Worksheet",
+        "file": "Anchors_Away_Hebrews_Lesson_01_Middle_School_Student_Worksheet.pdf"
+      }
+    ],
+
+    "teacher": [
+      {
+        "title": "Elementary Teacher Answer Key",
+        "file": "Anchors_Away_Hebrews_Lesson_01_Elementary_Teacher_Answer_Key.pdf"
+      },
+      {
+        "title": "Middle School Teacher Answer Key",
+        "file": "Anchors_Away_Hebrews_Lesson_01_Middle_School_Teacher_Answer_Key.pdf"
+      }
+    ]
+  }
+}

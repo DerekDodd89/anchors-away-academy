@@ -1,0 +1,32 @@
+{
+  "id": "week-01-monday",
+  "subject": "Language Arts",
+  "course": "Anchors Away Language Arts",
+  "unit": "Unit 1 — Building Strong Language Skills",
+  "lessonNumber": 1,
+  "schoolYear": "2026-2027",
+  "semester": 1,
+  "week": 1,
+  "day": "Monday",
+  "date": "August 17, 2026",
+  "title": "Words Build Stories",
+  "subtitle": "Reading, Grammar, Writing, and the Power of Words",
+  "literature": "Literature Study",
+  "reading": "Read and discuss today's assigned passage.",
+  "grammar": "Identify nouns, verbs, and complete sentences.",
+  "writing": "Write a short descriptive paragraph using complete sentences.",
+  "spelling": "Introduce this week's spelling words.",
+  "vocabulary": "Identify unfamiliar words from today's reading.",
+  "handwriting": "Complete a short copywork passage using careful penmanship.",
+  "skillFocus": "Recognizing how strong word choices and complete sentences communicate ideas clearly.",
+  "theme": "Good readers pay attention to words, and good writers choose their words carefully.",
+  "resources": {
+    "reading": [],
+    "grammar": [],
+    "writing": [],
+    "spelling": [],
+    "vocabulary": [],
+    "handwriting": [],
+    "teacher": []
+  }
+}
